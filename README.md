@@ -65,8 +65,8 @@ An autonomous lead enrichment pipeline built in Python 3.13 using **LangGraph**,
 1. **Clone the repository:**
 
    ```bash
-  git clone https://github.com/aryuskumar1122/autonomous-lead-enrichment-agent.git
-  cd autonomous-lead-enrichment-agent
+   git clone https://github.com/aryuskumar1122/Autonomous-Lead-Enrichment-Agent.git
+   cd autonomous-lead-enrichment-agent
    ```
 
 2. **Sync virtual environment & dependencies:**
@@ -86,8 +86,8 @@ An autonomous lead enrichment pipeline built in Python 3.13 using **LangGraph**,
 1. **Clone the repository:**
 
    ```bash
-  git clone https://github.com/aryuskumar1122/autonomous-lead-enrichment-agent.git
-  cd autonomous-lead-enrichment-agent
+   git clone https://github.com/aryuskumar1122/Autonomous-Lead-Enrichment-Agent.git
+   cd autonomous-lead-enrichment-agent
    ```
 
 2. **Create and activate a virtual environment:**

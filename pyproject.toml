@@ -15,5 +15,6 @@ dependencies = [
     "playwright>=1.62.0",
     "pydantic>=2.13.5",
     "python-dotenv>=1.2.3",
+    "streamlit>=1.63.0",
     "tqdm>=4.70.1",
 ]
