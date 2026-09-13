@@ -1,0 +1,9 @@
+langgraph 
+langchain-openai 
+playwright 
+beautifulsoup4 
+html2text 
+pydantic 
+python-dotenv 
+duckduckgo-search 
+tqdm

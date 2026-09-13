@@ -1,0 +1,108 @@
+[
+  {
+    "domain": "postman.com",
+    "status": "success",
+    "error_message": null,
+    "crawled_urls": [
+      "https://postman.com",
+      "https://postman.com/company/press-media",
+      "https://postman.com/company/contact-us",
+      "https://postman.com/company/about-postman",
+      "https://postman.com/pricing"
+    ],
+    "intelligence": {
+      "company_overview": "Postman is an AI-native API platform that helps teams develop, test, manage, and distribute APIs and services. The company says it simplifies the full API lifecycle and supports collaboration and governance at enterprise scale.",
+      "target_audience": "Engineers, API teams, and organizations building, testing, managing, and distributing APIs and services, including enterprise teams.",
+      "contact_points": [
+        "info@postman.com",
+        "info-jp@postman.com"
+      ],
+      "key_leadership": [
+        {
+          "name": "Abhinav Asthana",
+          "role": "CEO and Co-founder",
+          "linkedin_url": "https://www.linkedin.com/in/abhinavasthana"
+        },
+        {
+          "name": "Ankit Sobti",
+          "role": "Co-founder",
+          "linkedin_url": "https://www.linkedin.com/in/ankit-sobti"
+        },
+        {
+          "name": "Abhijit Kane",
+          "role": "Co-founder",
+          "linkedin_url": "https://in.linkedin.com/in/abhijitkane"
+        }
+      ],
+      "data_confidence_score": 0.97
+    },
+    "metrics": {
+      "prompt_tokens": 15890,
+      "completion_tokens": 174,
+      "total_tokens": 16064,
+      "estimated_cost_usd": 0.002488
+    }
+  },
+  {
+    "domain": "supabase.com",
+    "status": "success",
+    "error_message": null,
+    "crawled_urls": [
+      "https://supabase.com",
+      "https://supabase.com/solutions/innovation-teams",
+      "https://supabase.com/contact-us",
+      "https://supabase.com/company",
+      "https://supabase.com/contact/sales"
+    ],
+    "intelligence": {
+      "company_overview": "Supabase is a developer platform built around managed Postgres that adds authentication, APIs, edge functions, realtime, storage, vector search, and other backend services. It positions itself as open source infrastructure for building and scaling applications from prototypes to enterprise production.",
+      "target_audience": "Developers, startups, innovation teams, and enterprises building web or mobile applications on Postgres, including AI builders and non-technical citizen developers.",
+      "contact_points": [
+        "privacy@supabase.com",
+        "security@supabase.com",
+        "abuse@supabase.com",
+        "legal@supabase.com",
+        "help-events@supabase.com",
+        "express@4.18.2"
+      ],
+      "key_leadership": [
+        {
+          "name": "Tracy Lane",
+          "role": "General Counsel",
+          "linkedin_url": "https://www.linkedin.com/in/tracy-lane-5baa7023"
+        }
+      ],
+      "data_confidence_score": 0.95
+    },
+    "metrics": {
+      "prompt_tokens": 10634,
+      "completion_tokens": 167,
+      "total_tokens": 10801,
+      "estimated_cost_usd": 0.001695
+    }
+  },
+  {
+    "domain": "vapi.ai",
+    "status": "success",
+    "error_message": null,
+    "crawled_urls": [
+      "https://vapi.ai",
+      "https://vapi.ai/pricing"
+    ],
+    "intelligence": {
+      "company_overview": "Vapi provides an API-native platform for building, deploying, and improving voice agents for phone calls and SMS/chat workflows. It offers orchestration, monitoring, telephony, integrations, and enterprise-grade infrastructure for high-scale voice AI deployments.",
+      "target_audience": "Builders, developers, and enterprises creating voice agents for customer support, lead qualification, appointment scheduling, and other call-based workflows.",
+      "contact_points": [
+        "support@vapi.ai"
+      ],
+      "key_leadership": [],
+      "data_confidence_score": 0.93
+    },
+    "metrics": {
+      "prompt_tokens": 2829,
+      "completion_tokens": 117,
+      "total_tokens": 2946,
+      "estimated_cost_usd": 0.000495
+    }
+  }
+]
